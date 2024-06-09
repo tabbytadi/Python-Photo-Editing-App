@@ -1,15 +1,21 @@
 # Python-Photo-Editing-App
-This project is a simple image processing application built using Python with the wxPython library for the GUI and the Pillow library (PIL fork) for image manipulation. It provides a user interface where users can apply various image filters, perform basic transformations like rotation, cropping, and resizing, and export the modified image.
 
-<br>
+This project is a simple yet powerful image processing application developed in Python. It leverages the wxPython library for creating an intuitive graphical user interface (GUI) and the Pillow library (PIL fork) for comprehensive image manipulation capabilities. Users can apply various filters, perform transformations, and export edited images with ease.
 
-## <u> Skills demonstrated in this project include: </u>
+---
 
-> [!NOTE]
-> * GUI development using wxPython, showcasing the ability to create interactive graphical interfaces.
-> * Image processing and manipulation using the Pillow library, illustrating skills in handling and transforming digital images.
-> * Event handling and user input validation, ensuring smooth interaction and error handling within the application.
-> * File I/O operations, allowing users to save modified images to their local filesystem.
-> * Layout management and design considerations for organizing GUI elements effectively for user-friendly interaction. :tada:
+## Skills Demonstrated
 
+- **GUI Development**: Utilizes wxPython to create a responsive and visually appealing interface for users to interact with.
+  
+- **Image Manipulation**: Harnesses the power of the Pillow library to perform advanced image processing tasks such as filtering, rotation, cropping, and resizing.
+  
+- **Event Handling and Input Validation**: Implements robust event handling mechanisms and input validation techniques to ensure smooth user experience and error-free operation.
+  
+- **File Operations**: Enables users to save edited images locally through efficient file input/output operations.
+  
+- **Layout Design**: Emphasizes effective layout management and design principles to optimize the arrangement of GUI elements for enhanced usability and aesthetic appeal.
 
+---
+
+Feel free to explore the project and enhance your skills in Python programming and image processing! :rocket:
