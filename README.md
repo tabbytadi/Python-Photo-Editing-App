@@ -1,6 +1,8 @@
 # Python-Photo-Editing-App
 This project is a simple image processing application built using Python with the wxPython library for the GUI and the Pillow library (PIL fork) for image manipulation. It provides a user interface where users can apply various image filters, perform basic transformations like rotation, cropping, and resizing, and export the modified image.
 
+<br>
+
 ## <u> Skills demonstrated in this project include: </u>
 
 > [!NOTE]
