@@ -9,5 +9,5 @@ This project is a simple image processing application built using Python with th
 >File I/O operations, allowing users to save modified images to their local filesystem.
 >Layout management and design considerations for organizing GUI elements effectively for user-friendly interaction.
 
-> [!Skills demonstrated in this project include:]
+> [Skills demonstrated in this project include:]
 > Useful information that users should know, even when skimming content.
