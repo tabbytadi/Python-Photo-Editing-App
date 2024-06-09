@@ -10,7 +10,8 @@ This project is a simple image processing application built using Python with th
  [x]File I/O operations, allowing users to save modified images to their local filesystem.
 >Layout management and design considerations for organizing GUI elements effectively for user-friendly interaction.
 > [] George Washington
-> [x] John Adams
-> + Thomas Jefferson
+> - [x] #739
+> - [ ] https://github.com/octo-org/octo-repo/issues/740
+> - [ ] Add delight to the experience when all tasks are complete :tada:
 
 
